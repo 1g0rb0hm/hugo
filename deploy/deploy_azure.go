@@ -12,6 +12,7 @@
 // limitations under the License.
 
 // +build !solaris,!nodeploy
+// +build !plan9
 
 package deploy
 

@@ -70,3 +70,10 @@ require (
 replace github.com/markbates/inflect => github.com/markbates/inflect v0.0.0-20171215194931-a12c3aec81a6
 
 go 1.12
+
+replace github.com/fsnotify/fsnotify => github.com/1g0rb0hm/fsnotify-shim v0.0.0
+
+replace github.com/spf13/afero => github.com/1g0rb0hm/afero v1.1.3-0.20201204110253-759225cfc85a
+
+replace github.com/spf13/viper => github.com/1g0rb0hm/viper v1.7.1
+
